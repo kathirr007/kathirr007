@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![MasterHead](heroImage.webp)
 
-<h1 align="center">Hi there👋, I'm Kathiravan,</h1>
+<h1 align="center">Hi there👋, I'm Kathiravan</h1>
 <h3 align="center">Sr. Fullstack Developer at Mudrantar, Hyderabad.</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kathirr007)](https://github.com/kathirr007/github-profile-trophy)
