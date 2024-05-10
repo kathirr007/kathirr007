@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <img align="right" alt="Coding" width="400" src="web-developer.png">
 
-- 🔭 I’m currently focusing on **Getting to know how to use ChatGPT for Development**
+- 🔭 I’m currently focusing on **Getting to know how to use ChatGPT, Gemini and other availabe AI LLM for my day to day Developments**
 
 <!-- - 🌱 I’m currently learning **Blockchain** -->
 
