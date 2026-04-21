@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there👋, I'm Kathiravan</h1>
 <h3 align="center">Sr. Fullstack Developer at Mudrantar, Hyderabad.</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kathirr007)](https://github.com/kathirr007/github-profile-trophy)
+[![trophy](https://trophy.ryglcloud.net/?username=kathirr007&theme=light)](https://trophy.ryglcloud.net)
+
 
 <img align="right" alt="Coding" width="400" src="web-developer.png">
 
